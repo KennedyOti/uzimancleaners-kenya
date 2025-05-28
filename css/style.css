@@ -288,6 +288,7 @@ img {
 .hero-title {
   font-size: 3rem;
   font-weight: 800;
+  color: var(--white);
   margin-bottom: 1.5rem;
   line-height: 1.2;
   text-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
